@@ -159,23 +159,23 @@ body {
 }
 
 .strength-indicator .strength-1 {
-    background-color: #f1c40f;
-    border: 1px solid #f1c40f;
+    background-color: #1FFF00;
+    border: 1px solid #1FFF00;
 }
 
 .strength-indicator .strength-2 {
-    background-color: #f1c40f;
-    border: 1px solid #f1c40f;
+    background-color: #D4FD00;
+    border: 1px solid #D4FD00;
 }
 
 .strength-indicator .strength-3 {
-    background-color: #f1c40f;
-    border: 1px solid #f1c40f;
+    background-color: #FCE400;
+    border: 1px solid #FCE400;
 }
 
 .strength-indicator .strength-4 {
-    background-color: #f1c40f;
-    border: 1px solid #f1c40f;
+    background-color: #FD5001;
+    border: 1px solid #FD5001;
 }
 
 .gen-button {
